@@ -8,6 +8,9 @@ Aquí se van ubicando los materiales y clases del tercer curso de la serie del P
 
 Cualquier duda se puede escribir a Alfredo al correo ae.orozco10@uniandes.edu.co.
 
+La [sala del curso](https://uniandes-edu-co.zoom.us/j/89726853160) tiene el ID: 897 2685 3160.
+
+
 ## Clase 1 - Introducción
 
 Este material se cargará próximamente.
