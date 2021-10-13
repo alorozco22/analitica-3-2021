@@ -36,4 +36,7 @@ De paso recuerden enviar sus comentarios y retroalimentación sobre la clase, qu
 
 Alfredo.
 
+## Clase 3 - Analítica prescriptiva y desarrollo en equipo
+
+Las diapositivas de la [clase 3](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2010%2013%20Clase%203%20-%20Analitica%20prescriptiva%20y%20equipos%20de%20desarrollo.pdf) se encuentran en el enlace.
 
