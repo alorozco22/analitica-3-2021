@@ -50,3 +50,16 @@ Vayan pensándolo.
 
 Nos vemos, Alfredo.
 
+## Clase 4 - Taller de analítica prescriptiva en R
+
+La clase de hoy vamos a echarle mano al código, pero también vamos a formalizar. Para esto les dejo los siguientes materiales para la clase:
+
+1. Las diapositivas de la [clase 4](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2010%2020%20Clase%204%20-%20Taller%20prescriptiva%20en%20R.pdf).
+2. El enlace del [Google Jamboard](https://jamboard.google.com/d/1p9vsnl4NY1bUYr0JdYdE8IRZdczZBeZPhtZjwHyD8oo/edit?usp=sharing) del taller de la primera hora.
+3. El [script](https://github.com/alorozco22/analitica-3-2021/blob/master/scripts/2021%2010%2020%20Clase%204%20-%20Taller%20prescriptiva%20en%20R%20-%20con%20ejercicios.R) con ejercicios.
+4. Los [datos](https://github.com/alorozco22/analitica-3-2021/blob/master/datos/2021%2010%2020%20Clase%204-mostvaluableplayers.csv) que vamos a utilizar.
+
+Para cuando termine la clase de hoy, si necesitan referencia también les dejo el script [solucionado](https://github.com/alorozco22/analitica-3-2021/blob/master/scripts/2021%2010%2020%20Clase%204%20-%20Taller%20prescriptiva%20en%20R%20-%20resuelto.R), pero ¡no lo descarguen antes de la clase de hoy!
+
+¡Nos vemos en clase!
+Alfredo.
