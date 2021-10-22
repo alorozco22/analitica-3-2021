@@ -63,3 +63,14 @@ Para cuando termine la clase de hoy, si necesitan referencia también les dejo e
 
 ¡Nos vemos en clase!
 Alfredo.
+
+## Retroalimentación del taller
+
+¡Hola! aquí les dejo una [retroalimentación](https://docs.google.com/document/d/1zHGa69HzFoDFgVZqbuaLmyPP3e8aLuA4H_4SNcO0UHY/edit?usp=sharing) del taller con comentarios a todos/as en general y con comentarios a los grupos que alcancé a hablar. Me quedaron faltando dos grupos. Si quieren podemos agendar para charlar unos 10 minutos esta semana.
+
+No pierdan de vista el proyecto. Esta semana vamos a ver temas de aprendizaje profundo y luego en el taller de R vamos a replicar el código de prescriptiva que tenemos pendiente y a trabajar con una red neuronal. Pero, la siguiente semana (la del 1 de noviembre) vamos a trabajar con sus datos. 
+
+Vayan reflexionando mejor el planteamiento con la retroalimentación que les doy y cualquier duda pueden escribirme o por si quieren reunirse.
+
+Feliz fin de semana,
+Alfredo.
