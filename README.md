@@ -74,3 +74,20 @@ Vayan reflexionando mejor el planteamiento con la retroalimentación que les doy
 
 Feliz fin de semana,
 Alfredo.
+
+## Clase 5 - Introducción a las redes neuronales
+
+Esta clase incluye la intoducción a las redes neuronales, una abstracción maravillosa de un fenómeno biológico increíble. Hablamos de back-propagation, funciones de activación, etc. También hicimos un comentario acerca del problema general de sobre-ajuste *overfitting*.
+
+Las diapositivas quedan [en este documento](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2010%2025%20Clase%205%20-%20Redes%20neuronales%20y%20deep%20learning.pdf).
+
+Recuerden seguir formalizando sus retos de analítica y cuando necesiten hablarme estoy disponible.
+¡Nos vemos en el taller de este miércoles!
+
+Alfredo.
+
+
+
+
+
+
