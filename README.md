@@ -86,6 +86,25 @@ Recuerden seguir formalizando sus retos de analítica y cuando necesiten hablarm
 
 Alfredo.
 
+## Clase 6 - Taller de inteligencia artificial en R
+
+¡Buen día!
+
+¡Hoy vamos a trabajar con datos!
+
+**Primero:** vamos a descargar el script y los datos de la clase 4.
+
+**Segundo:** vamos a descargar el siguiente [script con ejercicios](https://github.com/alorozco22/analitica-3-2021/blob/master/scripts/2021%2010%2026%20Clase%206%20-%20Taller%20de%20redes%20neuronales%20en%20R%20-%20con%20ejercicios.R), y los siguientes [datos](https://github.com/alorozco22/analitica-3-2021/blob/master/datos/binary.csv)
+
+
+El script [resuelto](https://github.com/alorozco22/analitica-3-2021/blob/master/scripts/2021%2010%2026%20Clase%206%20-%20Taller%20de%20redes%20neuronales%20en%20R%20-%20resuelto.R) está aquí pero no lo descarguen sino si lo quieren ver después de la clase.
+
+Las diapositivas de la clase de hoy quedan [aquí](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2010%2025%20Clase%206%20-%20Taller%20deep%20learning%20en%20R.pdf).
+
+¡Nos vemos hoy con sus RStudios prestos para correr código!
+
+Alfredo.
+
 
 
 
