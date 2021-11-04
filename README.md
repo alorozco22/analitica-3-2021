@@ -106,7 +106,12 @@ Las diapositivas de la clase de hoy quedan [aquí](https://github.com/alorozco22
 Alfredo.
 
 
+## Clase 7 - Deep learning y ética de la IA
 
+¡Hola! aquí les dejo la [presentación](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2005%20Clase%207%20-%20Deep%20learning%20y%20etica%20de%20la%20IA.pdf) de la clase de hoy.
 
+Vayan terminando de formalizar sus retos. 
 
+¡Que tengan un feliz resto de semana!
+Alfredo.
 
