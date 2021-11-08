@@ -115,3 +115,23 @@ Vayan terminando de formalizar sus retos.
 ¡Que tengan un feliz resto de semana!
 Alfredo.
 
+
+## Clase 8 - Taller de limpieza y exploración
+
+¡Hoy vamos a echarle mano a nuestros datos!
+
+Aquí está la [presentación](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2008%20Clase%208%20-%20Taller%20de%20limpieza%20y%20exploracion) por si quieren verla.
+
+
+Para pedir turno de pregunta, pueden usar este [google drive](https://docs.google.com/document/d/1skC4ga3JXadLxuu8KTSaXjU5ln99xdRHGsIk9iX6WaM/edit?usp=sharing) indicando:
+
+**Indicador del grupo (Ej. sala 2):** *y si quieren de antemano escribir una pregunta se puede.*
+
+Igualmente, si hay un grupo que lleva un rato largo sin haber preguntado nada, paso por ahí para ver que todo esté bien.
+
+¡Ya nos vemos!
+
+Alfredo
+
+
+
