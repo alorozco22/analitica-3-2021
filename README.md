@@ -120,7 +120,7 @@ Alfredo.
 
 ¡Hoy vamos a echarle mano a nuestros datos!
 
-Aquí está la [presentación](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2008%20Clase%208%20-%20Taller%20de%20limpieza%20y%20exploracion) por si quieren verla.
+Aquí está la [presentación](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2008%20Clase%208%20-%20Taller%20de%20limpieza%20y%20exploracion.pdf) por si quieren verla.
 
 
 Para pedir turno de pregunta, pueden usar este [google drive](https://docs.google.com/document/d/1skC4ga3JXadLxuu8KTSaXjU5ln99xdRHGsIk9iX6WaM/edit?usp=sharing) indicando:
@@ -133,5 +133,13 @@ Igualmente, si hay un grupo que lleva un rato largo sin haber preguntado nada, p
 
 Alfredo
 
+
+## Clase 9 - Repaso de técnicas
+
+Aquí les dejo las [diapositivas](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2010%20Clase%209%20-%20Brainstorming%20de%20tecnicas.pdf). La próxima clase vamos a tener un taller para comenzar a correr modelos, diagramas y estimaciones.
+
+¡Vamos con toda la energía con este proyecto!
+
+Alfredo.
 
 
