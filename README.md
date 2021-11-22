@@ -146,4 +146,24 @@ Alfredo.
 
 Aquí van las [diapositivas](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2017%20Clase%2010%20-%20Taller%20de%20modelos.pdf) del taller, estas incluyen las preguntas guía para la presentacion de la última clase.
 
+## Clase 11 - Taller cierre de estrategia
+
+El objetivo de hoy es llegar a replicar un Script de las técnicas que hemos escogido aplicar.
+Idealmente hoy tendremos al menos un modelo, visualización o procedimiento entrenado a partir de los datos.
+Para [PEDIR LA PALABRA](https://docs.google.com/document/d/1skC4ga3JXadLxuu8KTSaXjU5ln99xdRHGsIk9iX6WaM/edit?usp=sharing) o hacer preguntas podemos ingresar al documento anterior.
+
+¡Nos vemos en clase!
+
+
+
+
+
+
+
+
+
+
+
+
+
 
