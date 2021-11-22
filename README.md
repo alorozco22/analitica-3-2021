@@ -146,6 +146,10 @@ Alfredo.
 
 Aquí van las [diapositivas](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2017%20Clase%2010%20-%20Taller%20de%20modelos.pdf) del taller, estas incluyen las preguntas guía para la presentacion de la última clase.
 
+¡Feliz día!
+
+Alfredo.
+
 ## Clase 11 - Taller cierre de estrategia
 
 El objetivo de hoy es llegar a replicar un Script de las técnicas que hemos escogido aplicar.
@@ -154,7 +158,9 @@ Para [PEDIR LA PALABRA](https://docs.google.com/document/d/1skC4ga3JXadLxuu8KTSa
 
 ¡Nos vemos en clase!
 
+Alfredo.
 
+Nota aparte: a la pregunta que me habían hecho sobre FDA: [1](https://github.com/alorozco22/analitica-3-2021/blob/master/pregunta/1.pdf), [2](https://github.com/alorozco22/analitica-3-2021/blob/master/pregunta/2.pdf), [3](https://github.com/alorozco22/analitica-3-2021/blob/master/pregunta/3.pdf)
 
 
 
