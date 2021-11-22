@@ -142,4 +142,8 @@ Aquí les dejo las [diapositivas](https://github.com/alorozco22/analitica-3-2021
 
 Alfredo.
 
+## Clase 10 - Taller de modelos
+
+Aquí van las [diapositivas](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2017%20Clase%2010%20-%20Taller%20de%20modelos.pdf) del taller, estas incluyen las preguntas guía para la presentacion de la última clase.
+
 
