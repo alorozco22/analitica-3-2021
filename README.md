@@ -162,6 +162,7 @@ Alfredo.
 
 Nota aparte: a la pregunta que me habían hecho sobre FDA: [1](https://github.com/alorozco22/analitica-3-2021/blob/master/pregunta/1.pdf), [2](https://github.com/alorozco22/analitica-3-2021/blob/master/pregunta/2.pdf), [3](https://github.com/alorozco22/analitica-3-2021/blob/master/pregunta/3.pdf)
 
+De antemano les dejo las [diapositivas](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2022%20Clase%2011%20-%20Taller%20de%20cierre%20de%20procedimientos.pdf) de hoy.
 
 
 
