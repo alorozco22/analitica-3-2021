@@ -165,10 +165,25 @@ Nota aparte: a la pregunta que me habían hecho sobre FDA: [1](https://github.co
 De antemano les dejo las [diapositivas](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2022%20Clase%2011%20-%20Taller%20de%20cierre%20de%20procedimientos.pdf) de hoy.
 
 
+## Clase 12 - Cierre del curso
 
+Voy dejando las diapositvas de la última clase [aquí](https://github.com/alorozco22/analitica-3-2021/blob/master/clases/2021%2011%2024%20Clase%2012%20-%20Evaluacion%20de%20modelos%20y%20cierre%20del%20programa.pdf) que incluyen información sobre evaluación de modelos de aprendizaje supervisado.
 
+¡Un abrazo!
 
+Alfredo.
 
+## Despedida
+
+¡Hola! Muchas gracias por su consistencia con el curso. Este fue un módulo muy agradable de ofrecer, espero que ustedes se lleven muchos aprendizajes como yo también puede adquirir al trabajar con esta metodología.
+
+Sigan aplicando las heramientas, y sigan explorando en la comunidad de aprendizaje inmensa que hay en internet.
+
+Cualquier cosa que necesiten, aquí estoy.
+
+¡Muchos éxitos!
+
+Alfredo.
 
 
 
